@@ -38,4 +38,4 @@ Several safeguards are built into the code to reduce false positives/negatives:
 
 ## Code
 
-See [`Gripple.ino`](./Gripple.ino) — written in the Arduino IDE 2 environment for the Circuit Playground Express, using the `Adafruit_CircuitPlayground`, `Adafruit_GFX`, and `Adafruit_SSD1306` libraries.
+See [`Gripple.ino`](./Gripple.ino), written in the Arduino IDE 2 environment for the Circuit Playground Express, using the `Adafruit_CircuitPlayground`, `Adafruit_GFX`, and `Adafruit_SSD1306` libraries.
